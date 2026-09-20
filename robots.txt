@@ -1,0 +1,4 @@
+# Vista previa privada de trabajo. No debe indexarse: es una copia de
+# intain.io y competiria con el dominio real por las mismas busquedas.
+User-agent: *
+Disallow: /
